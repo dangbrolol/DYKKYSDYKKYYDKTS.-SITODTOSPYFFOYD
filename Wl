@@ -1,7 +1,0 @@
-return {
-"ttlolkid0",
-"YesUrDetected",
-"Freezm_90",
-"Eil18407",
-"King_manman513"
-}
